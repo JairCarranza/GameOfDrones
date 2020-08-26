@@ -6,3 +6,5 @@ Se instala Swagger para la prueba de los métodos del API.
 El API está publicado en azure en el siguiente enlace:
 https://gameofdrones20200823094940.azurewebsites.net/swagger/index.html
 
+La carpeta del proyecto del front esta ubicada en el siguiente enlace:
+https://github.com/JairCarranza/GameOfDronesFrontEnd.git
